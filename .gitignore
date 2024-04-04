@@ -2,3 +2,4 @@ node_modules/
 .vscode/
 build/
 !build/Release/farsight.node
+farsight-output.json

@@ -1,3 +1,15 @@
+# LOADSCREEN CHANGES:
+
+## Offsets:
+This is a modified version of the farsight so we can upload our own offsets without needing to wait for maintainers to approve PRs
+
+## Testing:
+We can also test farsight locally by running `test.js`.
+
+Running it will connect
+
+<hr>
+
 <!-- PROJECT SHIELDS -->
 <!--
 *** I'm using markdown "reference style" links for readability.
